@@ -3,7 +3,7 @@
 #
 
 sidebar:
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
@@ -50,12 +50,10 @@ sidebar:
 career-profile:
   title: About me
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Remote work lover ♥️ Although equilibrium is the key!
+    I'm a software engineer who has spent his first studying years providing wristband printing services for a wide variety of events. My commitment and responsibility with clients, has led me to get important clients such as UTE (energy provider of Uruguay).
+    On the last years of studying, I began my journey on a software company were I truly started to develop my experience and gain practical knowledge by applying the concepts I learned over the years in university.
+    I’m familiar with a variety of programming languages, including JavaScript, HTML, CSS, Python, Ruby, jQuery, and ReactJS, and I’m always adding new skills to my repertoire.
 education:
   - degree: Software Engineer
     university: Universidad de la República - Uruguay
@@ -87,7 +85,6 @@ experiences:
       Implement software solutions for USA clients using agile methodologies 
       and technologies like Ruby on Rails, Javascript, Boostrap, Ionic
       and Amazon Web Services.
-
       Instruct non-technical teammates onto the company onboarding process.
 projects:
   title: Side Projects
@@ -129,6 +126,18 @@ publications:
 skills:
   title: Skills &amp; Proficiency
   toolset:
+    - name: Teamwork
+      level: 100%
+      
+    - name: Adaptability
+      level: 100%
+      
+    - name: Resilent
+      level: 100%
+      
+    - name: Problem Solving
+      level: 100%
+     
     - name: Ruby on rails
       level: 75%
 
