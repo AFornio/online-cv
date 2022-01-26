@@ -52,11 +52,11 @@ career-profile:
   title: About me
   summary: |
     Remote work lover ♥️ Although equilibrium is the key!
-    
+
     I'm a software engineer who has spent his first studying years providing wristband printing services for a wide variety of events. My commitment and responsibility with clients, has led me to get important clients such as UTE (energy provider of Uruguay).
-    
+
     On the last years of studying, I began my journey on a software company where I truly started to develop my experience and gain practical knowledge by applying the concepts I learned over the years in university.
-    
+
     I’m familiar with a variety of programming languages, including JavaScript, HTML, CSS, Python, Ruby, jQuery, and ReactJS, and I’m always adding new skills to my repertoire.
 education:
   - degree: Software Engineer
@@ -86,28 +86,29 @@ experiences:
     time: APR 2020 - Present
     company: EagerWorks - Uruguay
     details: |
-      Implement software solutions for USA clients using agile methodologies 
+      Implement software solutions for USA clients using agile methodologies
       and technologies like Ruby on Rails, Javascript, Boostrap, Ionic
       and Amazon Web Services. I also instruct non-technical teammates onto the company onboarding process.
-      
+
       Projects I worked on:
         - Tenet-hub (https://tenet-hub.com/): Analysis service for sustainable agricultural production, dedicated to developing solutions focused on responsible land management.
         - SCA App: An app for the Sephardic Jewish Community, that operats as both a platform for Community institutions in their service of the Community and as a medium by which rabbis, educators, and thought leaders can engage directly with the Community-at-large.
         - ActionFace (http://www.actionface.me/): Action Face enables a user to customize a video game-like avatar with their own face and create a beautiful full-color, 3D-printed figurine starting with a 3D scan from their mobile phone.
-projects:
-  title: Side Projects
-  # intro: >
-  # You can list your side projects or open source libraries in this
-  # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-    - title: RemoteJobs.lat
-      link: "https://www.remotejobs.lat/"
-      tagline: "A remote job board for companies who seek to employ people from Latin america."
+        - HURR: A platform that allows you to rent clothes from other people in your city. It's a sustainable way to refresh your wardrobe and make some extra money.
+# projects:
+#   title: Side Projects
+#   # intro: >
+#   # You can list your side projects or open source libraries in this
+#   # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#   # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#   assignments:
+#     - title: RemoteJobs.lat
+#       link: "https://www.remotejobs.lat/"
+#       tagline: "A remote job board for companies who seek to employ people from Latin america."
 
-    - title: OniaStore
-      link: "https://oniastore.com/"
-      tagline: "An ecommerce solution built in Wordpress for the uruguayan brand Onia."
+#     - title: OniaStore
+#       link: "https://oniastore.com/"
+#       tagline: "An ecommerce solution built in Wordpress for the uruguayan brand Onia."
 
 publications:
   # title: Publications
@@ -136,18 +137,18 @@ skills:
   toolset:
     - name: Teamwork
       level: 100%
-      
+
     - name: Adaptability
       level: 100%
-      
+
     - name: Resilent
       level: 100%
-      
+
     - name: Problem Solving
       level: 100%
-     
+
     - name: Ruby on rails
-      level: 80%
+      level: 85%
 
     - name: Javascript & jQuery
       level: 98%
@@ -156,6 +157,6 @@ skills:
       level: 98%
 
     - name: React
-      level: 40%
+      level: 56%
 
 footer:
